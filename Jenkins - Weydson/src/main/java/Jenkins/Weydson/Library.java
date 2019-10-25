@@ -5,6 +5,6 @@ package Jenkins.Weydson;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
